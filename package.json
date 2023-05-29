@@ -1,0 +1,24 @@
+{
+  "name": "social-network-api-alhc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashlhc/Social-Network-API-alhc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashlhc/Social-Network-API-alhc/issues"
+  },
+  "homepage": "https://github.com/Ashlhc/Social-Network-API-alhc#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.5.0",
+    "mongoose": "^7.2.1"
+  }
+}
